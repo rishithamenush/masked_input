@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+doc/api/
+*.iml
+.idea/
+.DS_Store
+pubspec.lock

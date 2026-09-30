@@ -1,0 +1,17 @@
+.github/
+.dart_tool/
+build/
+coverage/
+doc/api/
+**/.idea/
+**/*.iml
+**/.DS_Store
+example/build/
+example/.dart_tool/
+example/ios/Flutter/ephemeral/
+example/macos/Flutter/ephemeral/
+example/linux/flutter/ephemeral/
+example/windows/flutter/ephemeral/
+example/android/local.properties
+example/ios/Flutter/Generated.xcconfig
+example/ios/Flutter/flutter_export_environment.sh

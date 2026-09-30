@@ -1,0 +1,16 @@
+name: masked_input_example
+description: Interactive phone, date, currency, and RTL examples for masked_input.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  masked_input:
+    path: ../
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
