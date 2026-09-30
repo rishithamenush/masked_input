@@ -4,8 +4,8 @@ Slot-based input masks for Flutter, with predictable cursor behavior, Unicode
 letters, dynamic masks, and minor-unit currency formatting. The only declared
 runtime dependency is the Flutter SDK. No native code, I/O, or analytics.
 
-This is a local **0.1.0 implementation**, not a published 1.0 release. Physical
-keyboard/IME and accessibility release checks are tracked in
+This is an early **0.1.0 release**, not a stable 1.0. Physical keyboard/IME and
+accessibility device checks are tracked in
 [the release checklist](doc/RELEASE_CHECKLIST.md).
 
 ## Demo
@@ -20,12 +20,11 @@ the captioned MP4 plays at normal demo speed. No audio is required.
 
 ## Quick start
 
-Until published, add a path dependency from your app:
+Add the package to your app:
 
 ```yaml
 dependencies:
-  masked_input:
-    path: ../masked_input
+  masked_input: ^0.1.0
 ```
 
 ```dart

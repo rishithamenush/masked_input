@@ -43,6 +43,4 @@ jobs:
       - run: flutter pub get
       - run: dart format --output=none --set-exit-if-changed lib test example/lib example/test benchmark
       - run: dart pub global activate pana
-      # Initially allow only the missing public-repository metadata points.
-      # Set threshold to zero once real repository/issue URLs are configured.
-      - run: dart pub global run pana --exit-code-threshold 10 .
+      - run: dart pub global run pana --exit-code-threshold 0 .

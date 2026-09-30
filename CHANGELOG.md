@@ -8,5 +8,5 @@
 - Add exact digit-stream currency formatting with ten locale conventions.
 - Add regression/invariant tests, a four-screen example, migration guidance,
   CI configuration, and documented spec clarifications.
-- Initial local implementation; physical-device, accessibility, and publication
-  gates are tracked separately. No upstream issue closure or compatibility claims.
+- Initial release; physical-device and accessibility checks are tracked in
+  `doc/RELEASE_CHECKLIST.md`. No upstream issue closure or compatibility claims.
