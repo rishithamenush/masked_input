@@ -8,6 +8,16 @@ This is a local **0.1.0 implementation**, not a published 1.0 release. Physical
 keyboard/IME and accessibility release checks are tracked in
 [the release checklist](doc/RELEASE_CHECKLIST.md).
 
+## Demo
+
+[![Watch the masked_input demo: phone masks, editing, currency, and RTL](doc/media/demo-preview.gif)](doc/media/masked-input-demo.mp4)
+
+[Watch the full 36-second video](doc/media/masked-input-demo.mp4) · [Static preview](doc/media/demo-poster.png)
+
+See phone formatting, dynamic masks, mid-text edits, backspace across literals,
+lazy/eager separators, currency, and RTL input. The animated preview is sped up;
+the captioned MP4 plays at normal demo speed. No audio is required.
+
 ## Quick start
 
 Until published, add a path dependency from your app:

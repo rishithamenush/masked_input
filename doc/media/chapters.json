@@ -1,0 +1,41 @@
+{
+  "duration": 36.041666666666664,
+  "chapters": [
+    {
+      "start": 0.0,
+      "scene": "intro"
+    },
+    {
+      "start": 3.0,
+      "scene": "phone"
+    },
+    {
+      "start": 8.08,
+      "scene": "dynamic"
+    },
+    {
+      "start": 10.92,
+      "scene": "edit"
+    },
+    {
+      "start": 16.38,
+      "scene": "delete"
+    },
+    {
+      "start": 19.67,
+      "scene": "eager"
+    },
+    {
+      "start": 23.29,
+      "scene": "currency"
+    },
+    {
+      "start": 28.25,
+      "scene": "rtl"
+    },
+    {
+      "start": 32.54,
+      "scene": "outro"
+    }
+  ]
+}
